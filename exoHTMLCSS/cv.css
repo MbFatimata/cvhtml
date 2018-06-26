@@ -1,0 +1,37 @@
+﻿body 
+{
+
+}
+h1 {
+    text-align: center;
+    background-color:#f6d8f8;
+}
+#principal {
+    width: 960px;
+    margin: 0 auto 0 auto;
+    border:double #f6d8f8 5px;
+}
+#photo
+{
+    width:300px;
+    float:left;
+}
+#profil
+{
+    width:160px;
+    float:right;
+    font-size:large;
+}
+h2 {
+    color: rebeccapurple;
+    margin: 30px;
+    background-color: #f6d8f8;
+}
+h3 {
+    margin: 10px 40px 10px 40px;
+}
+p.contenu {
+    margin: 10px 50px 10px 50px;
+    font-style: oblique;
+
+}
