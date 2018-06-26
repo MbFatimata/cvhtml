@@ -7,8 +7,6 @@ h1 {
     background-color:#f6d8f8;
 }
 #principal {
-    width: 960px;
-    margin: 0 auto 0 auto;
     border:double #f6d8f8 5px;
 }
 #photo
